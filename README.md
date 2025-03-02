@@ -23,3 +23,11 @@ This analysis distinguishes:
 Top 5 highest-spending customers ==> Identifies VIP/Premium customers who generate the highest revenue
 Top 5 loyal customers ==> Highlights customers who return regularly, even if their average purchase value is lower
 Jose Pavarotti, followed by Patricia McKenna and Paula Wilson, are both high-revenue-generating customers and loyal customers
+
+![image](https://github.com/user-attachments/assets/9e57530e-415c-4be8-8dc2-fc6234d0a78e)
+
+![image](https://github.com/user-attachments/assets/3ae7bca6-bee8-41b9-bc63-0214a8abdd0a)
+
+![image](https://github.com/user-attachments/assets/76680cec-05d6-4197-b1ce-365af84549c0)
+
+![image](https://github.com/user-attachments/assets/bf7ee159-1dc6-4821-a701-2e3215896309)
