@@ -5,7 +5,7 @@ En tant que développeur Power BI chez Maximoff Traders, une entreprise leader e
 
 ## Synthèse
  ![image](https://github.com/user-attachments/assets/4d8c7848-429c-4242-b05e-3a783f0e7eef)
-Le tableau de bord est coonstitué de 04 onglets qui présentent les analyses du marché, du chiffre d'affaires et des clients.
+Le tableau de bord est constitué de 04 onglets qui présentent les analyses du marché, du chiffre d'affaires et des clients.
 #### [Télécharger le tableau de bord en version PDF](https://github.com/Hines98/Rapport_ventes_PBI/blob/main/Dashboard.pdf)
 #### [Télécharger le tableau de bord en version Power BI](https://github.com/Hines98/Rapport_ventes_PBI/blob/main/Dashboard.pbix)
 
