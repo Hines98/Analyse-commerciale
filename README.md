@@ -6,7 +6,7 @@ En tant que développeur Power BI chez Maximoff Traders, une entreprise leader e
 ## Synthèse
  ![image](https://github.com/user-attachments/assets/4d8c7848-429c-4242-b05e-3a783f0e7eef)
 Le tableau de bord est constitué de 04 onglets qui présentent les analyses du marché, du chiffre d'affaires et des clients.
-#### [Consulter le rapprot](https://app.powerbi.com/links/tjPgxcEvN8?ctid=9209d438-0045-4b2d-98a3-49436baf1ead&pbi_source=linkShare)
+#### [Consulter le rapport](https://app.powerbi.com/links/tjPgxcEvN8?ctid=9209d438-0045-4b2d-98a3-49436baf1ead&pbi_source=linkShare)
 
 ### Analyse du marché et du CA
 Le dashboard met en évidence une forte croissance des ventes entre 1996 et 1998, avec un chiffre d’affaires total atteignant 546,68K$ et une augmentation significative en 1998 (+127,4 % par rapport à 1997). Les USA et le Brésil sont les marchés les plus performants, tandis que certaines régions comme le Royaume-Uni et le Venezuela affichent des ventes plus faibles.
