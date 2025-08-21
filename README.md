@@ -3,7 +3,7 @@ En tant que développeur Power BI chez Maximoff Traders, une entreprise leader e
 
 #### [Télécharger les données](https://github.com/Hines98/Rapport_ventes_PBI/tree/main/Donn%C3%A9es)
 #### [Télécharger la version PBIx du rapport](https://github.com/Hines98/Rapport_ventes_PBI/blob/main/Report_Sales_Analysis.pbix)
-#### [Télécharger la version PDF du rapport](https://github.com/Hines98/Rapport_ventes_PBI/blob/main/Report_Sales_Analysis_PDF.pdf)
+#### [Télécharger la version PDF du rapport](https://github.com/Hines98/Rapport_ventes_PBI/blob/main/Report_Sales_Analysis.pdf)
 
 ## Synthèse
  <img width="1353" height="718" alt="image" src="https://github.com/user-attachments/assets/0004f3cd-8895-4ba4-93c7-8f41d4486f1a" />
