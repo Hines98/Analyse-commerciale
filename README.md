@@ -2,11 +2,13 @@
 En tant que développeur Power BI chez Maximoff Traders, une entreprise leader en logiciels, ma mission est de faciliter l’accès aux informations clés de l’entreprise grâce à un tableau de bord interactif. L’objectif est de centraliser et de rendre accessibles les indicateurs de ventes critiques pour les utilisateurs métiers qui leur permettra de suivre les performances commerciales en un coup d’œil. 
 
 #### [Télécharger les données](https://github.com/Hines98/Rapport_ventes_PBI/tree/main/Donn%C3%A9es)
+#### [Télécharger la version PBIx du rapport](https://github.com/Hines98/Rapport_ventes_PBI/tree/main/Donn%C3%A9es)
+#### [Télécharger la version PDF du rapport](https://github.com/Hines98/Rapport_ventes_PBI/tree/main/Donn%C3%A9es)
 
 ## Synthèse
- ![image](https://github.com/user-attachments/assets/4d8c7848-429c-4242-b05e-3a783f0e7eef)
+ <img width="1353" height="718" alt="image" src="https://github.com/user-attachments/assets/0004f3cd-8895-4ba4-93c7-8f41d4486f1a" />
+
 Le tableau de bord est constitué de 04 onglets qui présentent les analyses du marché, du chiffre d'affaires et des clients.
-#### [Consulter le rapport](https://app.powerbi.com/links/tjPgxcEvN8?ctid=9209d438-0045-4b2d-98a3-49436baf1ead&pbi_source=linkShare)
 
 ### Analyse du marché et du CA
 Le dashboard met en évidence une forte croissance des ventes entre 1996 et 1998, avec un chiffre d’affaires total atteignant 546,68K$ et une augmentation significative en 1998 (+127,4 % par rapport à 1997). Les USA et le Brésil sont les marchés les plus performants, tandis que certaines régions comme le Royaume-Uni et le Venezuela affichent des ventes plus faibles.
