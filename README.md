@@ -1,9 +1,9 @@
 ## Contexte 
 En tant que développeur Power BI chez Maximoff Traders, une entreprise leader en logiciels, ma mission est de faciliter l’accès aux informations clés de l’entreprise grâce à un tableau de bord interactif. L’objectif est de centraliser et de rendre accessibles les indicateurs de ventes critiques pour les utilisateurs métiers qui leur permettra de suivre les performances commerciales en un coup d’œil. 
 
-#### [Télécharger les données](https://github.com/Hines98/Rapport_ventes_PBI/tree/main/Donn%C3%A9es)
-#### [Télécharger la version PBIx du rapport](https://github.com/Hines98/Rapport_ventes_PBI/blob/main/Report_Sales_Analysis.pbix)
-#### [Télécharger la version PDF du rapport](https://github.com/Hines98/Rapport_ventes_PBI/blob/main/Report_Sales_Analysis.pdf)
+#### [Télécharger les données](https://github.com/Hines98/Analyse-commerciale/tree/main/Donn%C3%A9es)
+#### [Télécharger la version PBIx du rapport](https://github.com/Hines98/Analyse-commerciale/blob/main/Report_Sales_Analysis.pbix)
+#### [Télécharger la version PDF du rapport](https://github.com/Hines98/Analyse-commerciale/blob/main/Report_Sales_Analysis.pdf)
 
 ## Synthèse
  <img width="1353" height="718" alt="image" src="https://github.com/user-attachments/assets/0004f3cd-8895-4ba4-93c7-8f41d4486f1a" />
